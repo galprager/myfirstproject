@@ -4,4 +4,4 @@ num=(num1+num2)
 if num%2==0:
     print("even")
 else:
-    print("odd")
+    print("odd fail")
